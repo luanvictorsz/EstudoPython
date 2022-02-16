@@ -6,5 +6,5 @@ print('João', 'Maria', "e", "Vinicius")
 print("Olá", "mundo", sep="-", end=".")
 
 #exemplo de Separação em Cpf
-print("079", "772", "936", sep=".", end="-")
+print("079", "778", "97", sep=".", end="-")
 print("60")
