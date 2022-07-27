@@ -1,4 +1,4 @@
-# Strings - str, são caracteres dentro de aspas, no caso de numeros, as aspas não são necessárias
+# Strings - (str) são caracteres dentro de aspas, no caso de numeros (int) as aspas não são necessárias
 
 print("isso é uma string")
 print('isso é outra string')
@@ -9,10 +9,10 @@ print(12345)  # isso não é uma string
 
 print(" quebra \n de linha")
 
-# outros tipos de dados
-# int - inteiro, ex: 1, 2, 3...
-# bool - booleano, ex: true, false
-# float - flutuante, ex: 1.5, 20.7...
+# outros tipos de dados: 
+# int - numeros inteiros, ex: 1, 2, 3...
+# bool - valor booleano, ex: true, false
+# float - numeros flutuante, ex: 1.5, 20.7...
 
 # verificando os tipos
 
